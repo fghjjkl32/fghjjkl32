@@ -26,9 +26,7 @@
 
 
 <a href="https://velog.io/@rain98">
-    <img 
-        src=https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@본인벨로그아이디"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </a>
  </div>
                                                                        
