@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fghjjkl32&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://velog.io/@rain98">
+<a href="https://rain98.oopy.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </a>
  </div>
